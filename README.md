@@ -17,6 +17,9 @@
         <a href="https://geekjob.ru/gVTq">
             <img src="https://geekjob.ru/assets/logo-white-hd.png?v=1" width="100" alt="GeekJOB Badge">
         </a>
+        <a href="https://cv.hexlet.io/ru/resumes/1931">
+            <img src="https://cdn2.hexlet.io/assets/logo_ru-495f05850e0095ea722a2b583565d492719579c02b0ce61d924e4f895fabf781.svg" width="100" alt="GeekJOB Badge">
+        </a>
     </p>
 </div>
 
