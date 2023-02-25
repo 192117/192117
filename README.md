@@ -18,7 +18,7 @@
             <img src="https://geekjob.ru/assets/logo-white-hd.png?v=1" width="100" alt="GeekJOB Badge">
         </a>
         <a href="https://cv.hexlet.io/ru/resumes/1931">
-            <img src="https://cdn2.hexlet.io/assets/logo_ru-495f05850e0095ea722a2b583565d492719579c02b0ce61d924e4f895fabf781.svg" width="100" alt="GeekJOB Badge">
+            <img src="https://cdn2.hexlet.io/assets/favicon-9213ff1fc34b4e2da96c3b3eb582b3d10180b250e993141d7928d6aa1f5647c1.ico" width="50" alt="GeekJOB Badge">
         </a>
     </p>
 </div>
