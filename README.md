@@ -5,7 +5,7 @@
 
 <div id="badges">
     <p align="center">
-        <a href="https://www.linkedin.com/in/artur-kalimullin-kokoc-junior/">
+        <a href="https://www.linkedin.com/in/artur-kalimullin-kokoc/">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
         </a>
         <a href="https://spb.hh.ru/applicant/resumes/view?resume=32c8135fff09427d600039ed1f7a4f4e647754">
@@ -13,9 +13,6 @@
         </a>
         <a href="https://career.habr.com/192117">
             <img src="https://career.habr.com/images/career_share.png" width="100" alt="HabrCareer Badge">
-        </a>
-        <a href="https://geekjob.ru/gVTq">
-            <img src="https://geekjob.ru/assets/logo-white-hd.png?v=1" width="100" alt="GeekJOB Badge">
         </a>
         <a href="https://cv.hexlet.io/ru/resumes/1931">
             <img src="https://cv.hexlet.io/assets/logo-cv-ru-2ec8078d402256f56cf54a3d365bd574781e57defc6a4443c3e100f0af7b12ad.svg" width="100" alt="Hexlet">
