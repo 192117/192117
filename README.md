@@ -14,9 +14,6 @@
         <a href="https://career.habr.com/192117">
             <img src="https://career.habr.com/images/career_share.png" width="100" alt="HabrCareer Badge">
         </a>
-        <a href="https://cv.hexlet.io/ru/resumes/1931">
-            <img src="https://cv.hexlet.io/assets/logo-cv-ru-2ec8078d402256f56cf54a3d365bd574781e57defc6a4443c3e100f0af7b12ad.svg" width="100" alt="Hexlet">
-        </a>
     </p>
 </div>
 
